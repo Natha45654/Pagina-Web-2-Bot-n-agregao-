@@ -71,3 +71,25 @@ h2 {
     padding: 10px;
     font-size: 30px;
 }
+
+*{
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+
+body{
+font-family: Arial;
+}
+
+main{
+display:flex;
+}
+
+aside{
+width:30%;
+}
+
+article{
+width:70%;
+}
